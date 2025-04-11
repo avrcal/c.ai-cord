@@ -16,7 +16,7 @@ Chat with Character ai with your friends but on discord!
 - 2 *stopai
 
 # how to get character id? 
-## you can get it by visiting c.ai website and go to the character you want and go yo the character link and you can find it after the "chat/" thing
+## you can get it by visiting c.ai website and go to the character you want and go to the character link and you can find it after the "chat/" thing
 
 
 
