@@ -12,7 +12,7 @@ import time
 
 DISCORD_BOT_TOKEN = "discord token"
 
-CHARACTER_AI_TOKEN = "c.ai token"
+CHARACTER_AI_TOKEN = "c.ai account token"
 
 bot = commands.Bot(command_prefix="*")
 
